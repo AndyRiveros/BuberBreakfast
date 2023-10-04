@@ -5,4 +5,4 @@ public record UpsertBreakfastRequest(
     DateTime StartDateTime,
     DateTime EndDateTime,
     List<string> Savory,
-    List<string> Sweet);
+    List<string> Sweet);   
